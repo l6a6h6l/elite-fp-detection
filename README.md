@@ -21,7 +21,7 @@ This repository contains the implementation of:
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/elite-fp-detection.git
+git clone https://github.com/l6a6h6l/elite-fp-detection.git
 cd elite-fp-detection
 
 # Install dependencies
